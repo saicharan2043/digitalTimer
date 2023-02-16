@@ -13,6 +13,7 @@ class DigitalTimer extends Component {
           <div className="">
             <h1 className="">25:00</h1>
             <p className="">running</p>
+            <h1>Hello World- TESTING GIT</h1>
           </div>
         </div>
 
